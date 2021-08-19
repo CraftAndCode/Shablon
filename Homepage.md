@@ -83,7 +83,7 @@ Introduction to tutorials
     "cardType": "tutorial"
 }, {
     "name": "Tutorial name",
-    "imageUrl":"Smileyface.jpg",
+    "imageUrl":"https://github.com/CraftAndCode/Shablon/blob/9477e6fadeec681bc0ad000c674936ada683c3d2/Smileyface.jpg?raw=true",
     "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/test/Tutorial",
     "description": "Tutorial description", 
     "cardType": "tutorial"
@@ -112,4 +112,4 @@ NEXT: Do something else
 ## ~
 ## Assembly video
 
-[![Watch this video](https://res.cloudinary.com/marcomontalbano/image/upload/v1629376960/video_to_markdown/images/youtube--dcCNlAx5Dz4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/dcCNlAx5Dz4 "Watch this video")
+[![Watch this video](https://github.com/CraftAndCode/Shablon/blob/25416ae91cffa5f5294b5f086ad7385e2ffa88ca/Preview.jpg?raw=true)](https://youtu.be/dcCNlAx5Dz4 "Watch this video")
