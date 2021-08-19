@@ -83,7 +83,7 @@ Introduction to tutorials
     "cardType": "tutorial"
 }, {
     "name": "Tutorial name",
-    "imageUrl":"https://github.com/CraftAndCode/test/blob/3e3b3ea306ca8889ba8256d01322a07b050a8f56/Smileyface.jpg?raw=true",
+    "imageUrl":"Smileyface.jpg",
     "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/test/Tutorial",
     "description": "Tutorial description", 
     "cardType": "tutorial"
