@@ -82,9 +82,9 @@ Introduction to tutorials
     "cardType": "tutorial"
 }, {
     "name": "Tutorial name",
-    "imageUrl":"https://github.com/CraftAndCode/Shablon/blob/9477e6fadeec681bc0ad000c674936ada683c3d2/Smileyface.jpg?raw=true",
-    "url": "https://makecode.microbit.org/#tutorial:github:microsoft/pxt-microbit/docs/lessons/flashing-heart/activity",
-    "description": "A tutorial that I stole from Microsoft", 
+    "imageUrl":"https://github.com/CraftAndCode/Shablon/blob/master/Smileyface.jpg?raw=true",
+    "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/test/Tutorial",
+    "description": "Tutorial description", 
     "cardType": "tutorial"
 }, {
     "name": "Tutorial name",
