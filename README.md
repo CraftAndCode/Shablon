@@ -113,3 +113,9 @@ NEXT: Do something else
   
 ***bold&italic text***  
 ![That's how I insert an image](https://raw.githubusercontent.com/CraftAndCode/Shablon/master/Petimage.svg) 
+
+## Learn more about using these code blocks:
+```cards
+basic.showString("new feature")
+basic.forever(function(){})
+```
