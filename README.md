@@ -96,7 +96,7 @@ Introduction to tutorials
 
 You have learned about this special feature! Wow! You rock!
 
-## ~button /writing-docs/tutorials
+## ~button /[tutorial.md]
 
 NEXT: Do something else
 
