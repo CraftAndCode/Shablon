@@ -87,11 +87,9 @@ Introduction to tutorials
     "description": "Tutorial description", 
     "cardType": "tutorial"
 }, {
-    "name": "Tutorial name",
-    "imageUrl":"https://raw.githubusercontent.com/CraftAndCode/Shablon/master/Testgif.gif",
-    "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/test/Tutorial",
-    "description": "Tutorial description",  
-    "cardType": "tutorial"
+    "name": "Watch video",
+    "imageUrl": "https://github.com/CraftAndCode/Shablon/blob/25416ae91cffa5f5294b5f086ad7385e2ffa88ca/Preview.jpg?raw=true)",
+    "youTubeId": "dcCNlAx5Dz4"
 }]
 ```
 ## Let's remind you what you have learned:
