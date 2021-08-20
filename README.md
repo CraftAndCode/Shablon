@@ -76,7 +76,7 @@ Introduction to tutorials
 ```codecard
 [{
     "name": "Tutorial name",
-    "imageUrl":"....",
+    "imageUrl":"https://raw.githubusercontent.com/CraftAndCode/Shablon/master/Petimage.svg",
     "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/test/Tutorial", 
     "description": "Tutorial description", 
     "cardType": "tutorial"
@@ -88,7 +88,7 @@ Introduction to tutorials
     "cardType": "tutorial"
 }, {
     "name": "Tutorial name",
-    "imageUrl":"....",
+    "imageUrl":"https://raw.githubusercontent.com/CraftAndCode/Shablon/master/Testgif.gif",
     "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/test/Tutorial",
     "description": "Tutorial description",  
     "cardType": "tutorial"
@@ -113,9 +113,12 @@ NEXT: Do something else
   
 ***bold&italic text***  
 ![That's how I insert an image](https://raw.githubusercontent.com/CraftAndCode/Shablon/master/Petimage.svg) 
+![Gifs work,too](https://raw.githubusercontent.com/CraftAndCode/Shablon/master/Testgif.gif) 
 
 ## Learn more about using these code blocks:
 ```cards
 basic.showString("new feature")
 basic.forever(function(){})
 ```
+  
+  Set your text variable like this: ``[let txt = "text"]``
