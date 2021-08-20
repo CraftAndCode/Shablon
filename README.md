@@ -2,13 +2,6 @@
 # Header
 Introduction: there is some special feature and you have not a slightest idea about it. 
     
-**bold text**  
-  
-*italic text*  
-  
-***bold&italic text***  
-![That's how I insert an image](https://raw.githubusercontent.com/CraftAndCode/Shablon/master/Petimage.svg) 
-
 ## A new feature:
 ### ~avatar
 
@@ -90,8 +83,8 @@ Introduction to tutorials
 }, {
     "name": "Tutorial name",
     "imageUrl":"https://github.com/CraftAndCode/Shablon/blob/9477e6fadeec681bc0ad000c674936ada683c3d2/Smileyface.jpg?raw=true",
-    "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/test/Tutorial",
-    "description": "Tutorial description", 
+    "url": "https://makecode.microbit.org/#tutorial:github:microsoft/pxt-microbit/docs/lessons/flashing-heart/activity",
+    "description": "A tutorial that I stole from Microsoft", 
     "cardType": "tutorial"
 }, {
     "name": "Tutorial name",
@@ -107,15 +100,16 @@ You have learned about this special feature! Wow! You rock!
 
 ## ~button /writing-docs/tutorials
 
-PREVIOUS: Go back
-
-## ~
-
-## ~button /writing-docs/tutorials
-
 NEXT: Do something else
 
 ## ~
 ## Assembly video
 
 [![Watch this video](https://github.com/CraftAndCode/Shablon/blob/25416ae91cffa5f5294b5f086ad7385e2ffa88ca/Preview.jpg?raw=true)](https://youtu.be/dcCNlAx5Dz4 "Watch this video")
+
+**bold text**  
+  
+*italic text*  
+  
+***bold&italic text***  
+![That's how I insert an image](https://raw.githubusercontent.com/CraftAndCode/Shablon/master/Petimage.svg) 
